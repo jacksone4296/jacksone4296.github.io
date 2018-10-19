@@ -8,4 +8,4 @@ This week our class covered the idea of stacking and placing images. On monday w
 
 ![MY FLAG](/images/tunisia.png) 
 
-With this day over we went onto wedsnday where we worked in pairs to try and recreate images. We found a few issues (me and my partner) such as making a right triangle, we tried a few functions such as isosceles-triangle
+With this day over we went onto wedsnday where we worked in pairs to try and recreate images. We found a few issues (me and my partner) such as making a right triangle, we tried a few functions such as isosceles-triangle and none of them worked untill we used the right-triangle function that was able to help us recreate the image we were stuck on. Then we had to overlay these images to specific locations to match the image we were making. Using this skill of moving locations I went to my flag and bettered the look of my flag which was able to help my issue of specifics.
