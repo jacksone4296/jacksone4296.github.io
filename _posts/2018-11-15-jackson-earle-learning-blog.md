@@ -18,4 +18,4 @@ end
  
 so then in the interactions area it would show the number 4 because that is the amount of layers the fucntion birthday-cake has.
 
-A question that was asked this week is what data int
+A question that was asked this week is what do data abstractions have to do with data tables. Something I thought is the names of collumns of data, not the stuff inside it just the name. We would only know the name and everything else would be hidden.
