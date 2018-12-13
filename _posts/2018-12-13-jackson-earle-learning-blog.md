@@ -8,7 +8,8 @@ date: 2018-11-29
 
 ![MY FLAG](/images/tunisiaP1.png)
 
-~~~ include image
+~~~ 
+include image
 
 size = 119.35
 
@@ -28,6 +29,7 @@ wc1f = place-image(wc1, half-width, half-height, base)
 rc = circle(circle-r * 0.75, "solid", "red")
 rcf = place-image(rc, half-width, half-height, wc1f)
 
-wc2 = circle(circle-r * 0.6, "solid", "white") ~~~
+wc2 = circle(circle-r * 0.6, "solid", "white") 
+~~~
 
 
