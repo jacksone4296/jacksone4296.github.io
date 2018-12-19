@@ -16,7 +16,7 @@ I expect to get a professional because I made a scalable representation of the T
 
 ## Current output
 
--   Insert an image that your program currently produces. _then delete this instruction_
+
 
 * * *
 ![MY FLAG](/images/flag-final.png)
@@ -26,7 +26,7 @@ I expect to get a professional because I made a scalable representation of the T
 
 -   What questions, strategies, help from peers or teacher, or thinking got you to this point? _then delete this instruction_
 
-<!--- Delete this comment and add your writing -->
+Some of the strategies I had that helped me seriously was organizing the code to be something understandable to my eyes, my partner Marlon helped me with how to layer the flag in more simple way than using underlay-xy, he showed me that place-image was much easier for placing images on top of each other, which was what I needed at the time. Then the biggest issue was to find a flag construction that I could understand enough to use. This helped me with most of my other issues such as circle radius and how to do that because I used the radius of the circle for the circles and star as well.
 
 
 ## Explain your code.
@@ -36,17 +36,18 @@ I expect to get a professional because I made a scalable representation of the T
 -   Tell us how it functions independently and within the whole program _then delete this instruction_
 
 * * *
+size = 100
+width = size * 3
+height = size * 2
+circle-r = height / 4
 
-```
-Insert 10-15 line code section here _then delete this instruction_
-```
 
 * * *
 
 -   Explain the code you posted by telling us about each argument.
 -   Then tell us how your code section fits into the whole.
- 
-<!--- Delete this comment and add your writing -->
+
+This is what was the basis of my code, it made everything else I used. The size function was used in every single line of code one way or another.
 
 
 ## Program code
