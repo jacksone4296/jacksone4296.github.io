@@ -19,7 +19,7 @@ I expect to get a professional because I made a scalable representation of the T
 -   Insert an image that your program currently produces. _then delete this instruction_
 
 * * *
-![Flag](/images/final-flag.png)
+![MYFLAG](/images/final-flag.png)
 * * *
 
 ## Describe your process.
