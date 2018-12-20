@@ -31,7 +31,6 @@ Some of the strategies I had that helped me seriously was organizing the code to
 
 ## Explain your code.
 
--   Choose a significant part of your program (15 lines max) and paste it below. Do not insert your entire program here. _then delete this instruction_
 -   Explain each argument in the code section. _then delete this instruction_
 -   Tell us how it functions independently and within the whole program _then delete this instruction_
 
@@ -43,11 +42,11 @@ circle-r = height / 4
 
 
 * * *
-
+Each part of the code held some significant value. The size was the only number by itself in the whole program. The width, height and size is what I used to measure the whole construction. Everything in my code is from these 4 lines,
 -   Explain the code you posted by telling us about each argument.
 -   Then tell us how your code section fits into the whole.
 
-This is what was the basis of my code, it made everything else I used. The size function was used in every single line of code one way or another.
+This is what was the basis of my code, it made everything else I used. The size function was used in every single line of code one way or another. For example when doing the circles and star I used the height and divided that by 4 to get the radius. From there I multiplied and divided by the needed amount to get the number I actually needed just by using 1 line of code. So with a single line of code I could do so much more than I origonally could .
 
 
 ## Program code
