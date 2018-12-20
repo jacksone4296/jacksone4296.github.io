@@ -8,11 +8,10 @@ date: 2018-12-21
 
 ## Describe your program
 
--   What country did you design for? 
 The countries I had the option to design were Greece and Tunisia, I chose Tunisia to be my flag because I made it earlier this year so I thought it would be rather simple.
 
--   What grade do you expect? 
-I expect to get a professional because I made a scalable representation of the Tunisian flag before the due date.
+
+I expect to get a professional because I made a scalable representation of the Tunisian flag before the due date. Then explained the questions in detail.
 
 ## Current output
 
