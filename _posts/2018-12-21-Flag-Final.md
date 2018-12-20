@@ -30,11 +30,15 @@ Some of the strategies I had that helped me seriously was organizing the code to
 ## Explain your code.
 
 * * *
+```
 size = 100
-width = size * 3
-height = size * 2
-circle-r = height / 4
 
+width = size * 3
+
+height = size * 2
+
+circle-r = height / 4
+```
 
 * * *
 Each part of the code held some significant value. The size was the only number by itself in the whole program. The width, height and size is what I used to measure the whole construction. Everything in my code is from these 4 lines, then with the original pieces added with a tad more detail it makes up my program
